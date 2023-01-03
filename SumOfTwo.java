@@ -6,6 +6,8 @@ public class SumOfTwo {
         int a  = sc.nextInt();
         int b  = sc.nextInt();
         System.out.println(a+b);
+        System.out.println("Samosa");
+        System.out.println("Burger");
         sc.close();
     }
 }
